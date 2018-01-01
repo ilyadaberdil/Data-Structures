@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #define N 10
 
-struct yigit
+struct yigin
 {
 	int elemanlar[N];
 
@@ -19,7 +19,7 @@ void ekle() {
 		if (p.elemanlar[i] == 0)
 		{
 			printf("Cikis komutu girildi veri alimi durduruldu..\n");
-			break; // 0 girilse de listeleme yapsýn diye exit(1); komutunu kullanmadým.
+			break; // 0 girilse de listeleme yapsÃ½n diye exit(1); komutunu kullanmadÃ½m.
 		}
 		else continue;
 	}
@@ -34,7 +34,7 @@ void listele() {
 }
 int main()
 {
-	printf("Yigit 10 elemanlidir. \n");
+	printf("Yigin 10 elemanlidir. \n");
 	printf("Cikis icin \"0\" giriniz..\nSayilari giriniz..\n");
 	ekle();
 	printf("\nListele.execute\n\n");
