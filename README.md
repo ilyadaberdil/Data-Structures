@@ -11,7 +11,7 @@
 -Kuyruk(Queue) Yapısına elemanlar eklenip, eklenen elemanları Insertion Sort ile sıralatıp listeleme.
 
 *VeriYapilari4-DataStructures4
--Matris üzerinden kullanıcının işaretlediği Ana Düğüm ve Hedef Düğümler arasındaki yolları listeleme.
+-Matris şeklinde verilen bir graf'ın A düğümünden B düğümüne olan tüm yollarının listelenmesini sağlayan c kodu. Graf üzerinden kullanıcının işaretlediği Ana Düğüm ve Hedef Düğümler arasındaki yolları listeleme.
 
 *VeriYapilari5-DataStructures5
 -Ekrandan girilen verileri bir dosyaya yazdıran ve eş zamanlı olarak da “ad” alanına göre tersine çevirmiş indeks dosyası oluşturan program 
